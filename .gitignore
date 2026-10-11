@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+get-pip.py
+.streamlit/
+.DS_Store
